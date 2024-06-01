@@ -1,5 +1,5 @@
 # API REST com Spring Boot
-O projeto é uma API Java para gerenciamento de consultas médicas, construída usando o Spring Framework. A estrutura do projeto sugere a implementação de autenticação, controle de acesso, manipulação de exceções, e diversas funcionalidades relacionadas ao gerenciamento de pacientes e consultas.
+API Java para gerenciamento de consultas médicas, construída usando o Spring Framework. A estrutura do projeto sugere a implementação de autenticação, controle de acesso, manipulação de exceções, e diversas funcionalidades relacionadas ao gerenciamento de pacientes e consultas.
 
 # Funcionalidades 
 
